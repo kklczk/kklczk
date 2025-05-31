@@ -17,15 +17,17 @@ Here are some ideas to get you started:
 
 I'm a multitasker extraordinaire, juggling between the realms of data science and photography. 💻📸
 
-Currently, I work as a **Data Scientist at Samsung R&D Poland**, where I design and implement recommender systems to serve customers at scale.
+Currently, I work as an **MLOps Engineer at Samsung Ads**, where I help build and maintain scalable machine learning infrastructure using tools like Python, AWS, Terraform, Airflow, and SageMaker.
 
-🔭 I’m currently working on recommender systems.  
-🌱 I’m currently learning cloud infrastructure development and management.  
-👯 I’m eager to collaborate on projects that aim to make the world a better place.  
-📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/jakubkoloczek) or [email](mailto:koloczek.jakub@gmail.com).  
+Previously, I worked as a **Data Scientist at Samsung R&D Poland**, designing and implementing recommender systems, running A/B tests, and creating interactive dashboards to support data-driven decisions.
+
+🔭 I'm currently focused on machine learning operations and infrastructure for recommender systems.  
+🌱 I'm learning more about cloud development, automation, and platform reliability.  
+👯 I'm open to collaborating on impactful, real-world AI projects.  
+📫 Reach me via [LinkedIn](https://www.linkedin.com/in/jakubkoloczek) or [email](mailto:koloczek.jakub@gmail.com).
 
 ✈️ When I'm not immersed in pixels and algorithms, you'll find me indulging in sports and travel, often with a camera in hand.  
-🚀 Let's chat and see where this journey takes us!
+🚀 Let’s connect and see where this journey takes us!
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
